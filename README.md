@@ -1,1 +1,1 @@
-# Landmark-Classification-Tagging-for-Social-Media
+# Landmark Classification Tagging for Social Media
