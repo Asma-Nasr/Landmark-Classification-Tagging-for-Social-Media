@@ -12,3 +12,9 @@ You can install the required libraries using pip:
 ```bash
 pip install -r requirements.txt
 ```
+
+# Usage
+- Clone this repo
+```bash
+git clone https://github.com/Asma-Nasr/Landmark-Classification-Tagging-for-Social-Media.git
+```
