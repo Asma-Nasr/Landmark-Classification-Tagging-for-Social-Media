@@ -4,3 +4,11 @@ This repository contains the code and resources for Project 3 of the **AWS Machi
 
 # Dataset
 - [Landmark Images Dataset](https://udacity-dlnfd.s3-us-west-1.amazonaws.com/datasets/landmark_images.zip)
+
+# Requirements
+
+You can install the required libraries using pip:
+
+```bash
+pip install -r requirements.txt
+```
